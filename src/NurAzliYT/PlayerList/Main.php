@@ -1,12 +1,4 @@
 <?php
-
-/*
-by AEDXDV
-
-Youtube: @AEDXDEV
-Discord: aedxdev
-
-*/
 namespace NurAzliYT\PlayerList;
 
 use JaxkDev\DiscordBot\Models\Messages\Embed\Embed;
@@ -18,7 +10,6 @@ use JaxkDev\DiscordBot\Plugin\Main as DiscordBot;
 use JaxkDev\DiscordBot\Plugin\ApiResultion;
 use JaxkDev\DiscordBot\Plugin\ApiRejection;
 use JaxkDev\DiscordBot\Models\Messages\Message;
-
 use pocketmine\utils\Config;
 use pocketmine\event\Listener;
 use pocketmine\player\Player;
