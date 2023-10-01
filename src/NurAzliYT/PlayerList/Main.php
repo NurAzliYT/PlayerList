@@ -1,13 +1,5 @@
 <?php
-
-/*
-by AEDXDV
-
-Youtube: @AEDXDEV
-Discord: aedxdev
-
-*/
-namespace AEDXDEV\ListPlayers;
+namespace NurAzliYT\PlayerList;
 
 use JaxkDev\DiscordBot\Models\Messages\Embed\Embed;
 use JaxkDev\DiscordBot\Models\Messages\Embed\Field;
