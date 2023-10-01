@@ -1,7 +1,7 @@
-name: ListPlayers
-author: AEDXDEV
+name: PlayerList
+author: NurAzliYT
 description: show count players and name players
-version: 1.0
-main: AEDXDEV\ListPlayers\Main
+version: 1.0.0
+main: NurAzliYT\PlayerList\Main
 api: 5.0.0
 depend: [DiscordBot]
